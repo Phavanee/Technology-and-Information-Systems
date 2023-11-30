@@ -6,10 +6,10 @@ Assignments are submitted here one week after their due dates on e-learning.
 
 There are a total of 6 assignments to be handed in:\
 ➕ Industry Talk and Industry Visit\
-  ✅ Assignment 1 (Format: Poster)\
-  ➕ Assignment 2 (Format: Video)\
-  ➕ Assignment 3 (Format: Report)\
-  ➕ Assignment 4 (Format: Technical Paper IEEE Format)\
+  &nbsp;✅ Assignment 1 (Format: Poster)\
+  &nbsp;➕ Assignment 2 (Format: Video)\
+  &nbsp;➕ Assignment 3 (Format: Report)\
+  &nbsp;➕ Assignment 4 (Format: Technical Paper IEEE Format)\
 ➕ PC Assemble (Lab)\
 ✅ Design Thinking (Low Fidelity Prototype)\ 
 ➕ undone; ✅ done;\
