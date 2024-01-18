@@ -8,8 +8,8 @@ There are a total of 6 assignments to be handed in:\
 ➕ Industry Talk and Industry Visit\
   &nbsp;&nbsp;✅ Assignment 1 (Format: Poster)\
   &nbsp;&nbsp;✅ Assignment 2 (Format: Video)\
-  &nbsp;&nbsp;➕ Assignment 3 (Format: Report)\
-  &nbsp;&nbsp;➕ Assignment 4 (Format: Technical Paper IEEE Format)\
+  &nbsp;&nbsp;✅ Assignment 3 (Format: Report)\
+  &nbsp;&nbsp;➕ Assignment 4 (Format: Newsletter)\
 ✅ PC Assemble (Lab)\
 ✅ Design Thinking (Low Fidelity Prototype)\ 
 ➕ undone; ✅ done;\
