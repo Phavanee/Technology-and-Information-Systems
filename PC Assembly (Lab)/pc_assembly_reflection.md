@@ -1,1 +1,6 @@
 The PC Assembly lab was held on our very first class and included a hands-on PC assembly session as well as a short quiz after. The lab was fun and exciting for me, as it gave me a chance to familiarize myself with the contents of a PC. There were a few components that I have never handled before, such as the power supply box. I think this activity is a great way to get students enthusiastic about learning the components of a PC and engage with a PC assembly lesson, rather than a boring video. Overall, I think this activity should be a must in introductory computer classes. 
+![photo1698032436(1)](https://github.com/Phavanee/Technology-and-Information-Systems/assets/147310184/b6f61531-466f-49b3-8e24-80cffb83d29f)
+![photo1698032560](https://github.com/Phavanee/Technology-and-Information-Systems/assets/147310184/1fe8d72a-bbd2-4daf-bbcb-6a5adad1b24f)
+![photo1698032316](https://github.com/Phavanee/Technology-and-Information-Systems/assets/147310184/adf966fa-ee12-4829-a6ea-403ec030462c)
+![photo1698032316(1)](https://github.com/Phavanee/Technology-and-Information-Systems/assets/147310184/5a3b20f6-258d-48cf-94fa-0eb2fef5f7c1)
+![photo1698032436](https://github.com/Phavanee/Technology-and-Information-Systems/assets/147310184/d67d7f98-58fd-47f4-9466-88f3c134c0af)
